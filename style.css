@@ -2,7 +2,7 @@ body {
     margin: 0 25%;
 }
 
-h1, h2, h3 {
+* {
     font-family: 'Liberation Mono', sans-serif;
     font-weight: bold;
 }
@@ -39,7 +39,6 @@ nav ul li {
 }
 
 ul li a {
-    font-family: 'Liberation Mono', sans-serif;
     padding: 5px;
 }
 
