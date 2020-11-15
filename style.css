@@ -4,7 +4,10 @@ body {
 
 * {
     font-family: 'Liberation Mono', sans-serif;
-    font-weight: bold;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 a {
